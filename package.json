@@ -30,7 +30,7 @@
     "grunt-string-replace": "0.2.8",
     "grunt-text-replace": "0.4.0",
     "jshint-stylish": "0.4.0",
-    "karma": "0.13.22",
+    "karma": "5.1.1",
     "karma-chrome-launcher": "3.1.0",
     "karma-coffee-preprocessor": "1.0.1",
     "karma-coverage": "2.0.3",
